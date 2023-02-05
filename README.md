@@ -1,6 +1,6 @@
 # Linear-centrosymmetric-systems
 
-Codes for the paper: Numerical solution of centrosymmetric linear systems with applications to spectral methods
+Codes for the paper: Incomplete double--cone factorizations of centrosymmetric matrices arising in spectral methods
 
 Authors: Chen Greif, Sarah Nataj, Manfred Trummer
 

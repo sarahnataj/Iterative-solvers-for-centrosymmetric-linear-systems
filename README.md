@@ -1,4 +1,4 @@
-# Linear-centrosymmetric-systems
+# Iterative solvers for linear-centrosymmetric-systems
 
 Codes for the paper: Incomplete double--cone factorizations of centrosymmetric matrices arising in spectral methods
 

@@ -1,6 +1,6 @@
 # Iterative solvers for linear-centrosymmetric-systems
 
-Codes for the paper: Incomplete double--cone factorizations of centrosymmetric matrices arising in spectral methods
+Code for the paper: Incomplete double--cone factorizations of centrosymmetric matrices arising in spectral methods
 
 Authors: Chen Greif, Sarah Nataj, Manfred Trummer
 
